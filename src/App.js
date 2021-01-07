@@ -1,12 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
 function App() {
   return (
-    <div className="App">
-      <h1>Reduc Hello World</h1>
+    <div>
+      <h1>Redux Hello World</h1>
     </div>
   );
 }
 
 export default App;
+
