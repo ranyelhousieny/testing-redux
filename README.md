@@ -1,4 +1,4 @@
-https://medium.com/p/bc4a11700c2a/edit
+
 
 In the following two articles I will try to explain how Redux works with examples and less talk.
 Create a Redux (Hello World): https://www.linkedin.com/pulse/creating-mock-rest-server-testing-using-json-server-rany/
